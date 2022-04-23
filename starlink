@@ -1,0 +1,8 @@
+v_char = {"curve1":{"seg1": {"vmax": value=max(array([1,2,3])),
+                             "vmin": value=min(array([1,2,3])),
+                             }
+                    "seg2": {"vmax": value=max(array([2,3,4])),
+                             "vmin": value=min(array([2,3,4]))}
+          "curve2":{"seg1": {"vmax": value=max(array([3,4,5])),
+                             "vmin": value=min(array([3,4,5]))}}
+}}
